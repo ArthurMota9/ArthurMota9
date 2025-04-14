@@ -6,7 +6,7 @@
 ⚽ Passionate about sports :)
 
 ### Experience 🥇
-📦 Sr Frontend Engineer - [Mercado Livre](https://www.linkedin.com/company/mercadolibre/) - May 2021 - Present · 3 yrs <br>
+📦 Sr Frontend Engineer - [Mercado Livre](https://www.linkedin.com/company/mercadolibre/) - May 2021 - Present · 4 yrs <br>
 🏦 Frontend Engineer - [PagSeguro PagBank](https://www.linkedin.com/company/pagbank/) - Nov 2020 - May 2021 · 7 mos <br>
 📓 Frontend Developer - [Aurum Software](https://www.linkedin.com/company/aurumbr/) - May 2017 - Nov 2020 · 3 yrs 7 mos <br>
 🏫 Trainee/Frontend Developer - [UDESC](https://www.linkedin.com/company/udesc_2/) - Feb 2016 - Apr 2017 · 1 yrs 3 mos <br>
