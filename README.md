@@ -1,6 +1,6 @@
 ### Hi, I'm Arthur! 👋
 
-👨🏽‍💻 Frontend Engineer at [Mercado Livre](https://www.linkedin.com/company/mercadolibre/) <br>
+👨🏽‍💻 Senior Frontend Engineer at [Mercado Livre](https://www.linkedin.com/company/mercadolibre/) <br>
 🇧🇷 Living in Florianópolis, Brazil <br>
 💻 React, TypeScript, HTML + CSS.. <br>
 ⚽ Passionate about sports :)
